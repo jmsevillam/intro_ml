@@ -1,6 +1,6 @@
 # Learning Machine Learning
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmsevillam/LearningML/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmsevillam/intro_ml/HEAD)
 
 Notebooks and Scripts on Machine Learning
 
